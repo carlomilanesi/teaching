@@ -1,2 +1,2 @@
-# Teaching
-This repo contains ideas regarding ways of teaching anything, which could be better than any other known way of teaching.
+# Didattica
+Questo repo contiene le mie idee riguardanti il modo di insegnare qualsiasi cosa.
