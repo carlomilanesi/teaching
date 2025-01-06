@@ -1,9 +1,10 @@
 # Introduzione
 
-In questo documento vengono presentati tre principi didattici, indipendenti l'uno dall'altro. Eccoli in ordine arbitrario:
+In questo documento vengono presentati quattro principi didattici, indipendenti l'uno dall'altro. Eccoli in ordine arbitrario:
 1. La prassi precede la teoria.
-2. Chi insegna non deve certificare le competenze.
-3. La comunicazione più efficace è tra due sole persone.
+2. Gli uomini pensano per problemi
+3. Chi insegna non deve certificare le competenze.
+4. La comunicazione più efficace è tra due sole persone.
 
 # La prassi precede la teoria
 
@@ -53,6 +54,103 @@ Tutto ciò vale anche per altre discipline.
 Per esempio, in chimica, invece di iniziare a parlare del concetto di ossido-riduzione, si devono presentare decine di importanti reazioni chimiche, poi classificarle in base alle loro caratteristiche, e infine dare dei nomi a tali classi di reazioni.
 
 Come altro esempio, nel diritto, invece di iniziare a parlare del concetto di reati contro il patrimonio, si devono presentare decine di importanti reati, poi classificarli in base alle loro caratteristiche, e infine dare dei nomi a tali classi di reati.
+
+# Gli uomini pensano per problemi
+
+## La prospettiva evolutiva
+
+Il fatto che gli uomini pensino per problemi è ragionevole da un punto di vista dell'evoluzione delle specie.
+
+Infatti, l'obiettivo evolutivo di ogni essere vivente, inclusi gli esseri umani, è di diffondere i propri geni nelle generazioni successive.
+
+Se un essere umano non pensa mai, chiaramente rischia di soccombere agli eventi avversi o di non sfruttare le opportunità che si presentano.
+Ma anche se un essere umano si attarda a pensare, quando c'è bisogno di agire immediatamente, rischia altrettanto di soccombere agli eventi avversi o di non sfruttare le opportunità.
+Invece risulta utile pensare quando si presentano eventi avversi od opportunità che lascino il tempo per pensare.
+
+D'altra parte, pensare serve a poco se non ci sono eventi avversi né opportunità.
+In tale frangente, risulta ottimale attenersi al comportamento abitudinario.
+
+Quindi, gli esseri umani che hanno successo evolutivo sono quelli che si mettono a pensare che cosa è meglio fare quando c'è un evento avverso o un'opportunità da sfruttare, e c'è il tempo per pensare.
+
+Facciamo qualche esempio.
+
+Un uomo si sta rilassando all'ombra di un albero.
+Non c'è bisogno che pensi a niente.
+
+Un grosso insetto gli cade su una gamba. L'istinto è quello di scacciarlo immediatamente con una manata.
+Si rischia di più a ponderare con calma se sia meglio dargli una manata o non fare niente.
+
+Si sente da lontano il ruggito di un leone.
+Non è molto conveniente mettersi a scappare immediatamente, perché in tal modo ci si potrebbe far notare dal leone.
+Il comportamento migliore è mettersi a pensare che cosa fare: ci si potrebbe arrampicare sull'albero, o procurarsi un'arma lì vicino per potersi difendere, o avvertire altre persone lì vicino, o cercare di nascondersi, o scappare cercando però di non farsi notare dal leone.
+
+Il pensiero risulta un'arma vincente quando c'è un pericolo o un'opportunità imminente, e ci sono alcuni secondi o minuti per pensare al migliore comportamento da intraprendere.
+
+## La prospettiva narrativa
+
+Tutte le persone amano ascoltare dei bei racconti.
+Ciò fornisce una motivazione per la poesia e la prosa scritte, il teatro, il cinema.
+Questo può essere spiegato da una prospettiva evoluzionistica, ma qui diamolo come un fatto.
+
+Ma non tutti i possibili racconti hanno una trama interessante.
+Quali sono le trame narrative che interessano maggiormente alla gente?
+Ci sono numerosi generi letterari, ma quasi tutti hanno in comune il seguente andamento.
+
+C'è una situazione "normale".
+Questo a volte viene descritto dettagliatamente, e a volte viene omesso, in quanto dato per scontato.
+
+Accade un fatto imprevisto, che richiede un intervento risolutivo da parte del protagonista.
+I primi tentativi però risultano inefficaci come tali o in quanto contrastati da altre persone.
+
+La storia finisce quando la situazione si risolve, nel bene o nel male.
+
+Quindi, una storia risulta interessante se pone uno o più problemi al fruitore (lettore, ascoltatore, spettatore).
+E la storia costituisce la descrizione di come tali problemi vengono affrontati e risolti.
+
+## La prospettiva ludica
+
+Tutte le persone, soprattutto da bambini, ma in qualche misura a qualunque età, amano giocare.
+Ciò fornisce una motivazione per gli sport, i giochi da tavolo, l'enigmistica, i videogiochi, e le scommesse.
+Questo può essere spiegato da una prospettiva evoluzionistica, ma qui diamolo come un fatto.
+
+Ma non tutti i possibili giochi sono interessanti.
+Quali sono i regolamenti di gioco che divertono maggiormente la gente?
+
+Sono quelli in cui il partecipante, secondo la sua percezione, ha una significativa probabilità di vincere, ma anche una significativa probabilità di perdere.
+Se si percepisce che in un gioco si ha la sostanziale certezza di vincere o la sostanziale certezza di perdere, non ci si diverte.
+
+In enigmistica, quali sono i cruciverba divertenti?
+Non quelli in cui si indovinano subito oltre il 90% delle parole, in quanto troppo facili.
+E nemmeno quelli in cui si indovinano subito meno del 5% delle parole, in quanto troppo difficili.
+Quelli divertenti sono quelli *stimolanti*, ossia che possono essere risolti in un tempo ragionevole, iniziando dalle parole più facili, per poi passare a quelle più difficili, che però vengono facilitate dagli incroci con le parole già indovinate.
+
+Quindi tra i giochi, troviamo divertenti quelli che sono problemi percepiti come risolubili, ma non senza qualche difficoltà.
+
+## La prospettiva formativa
+
+Il gioco e la narrazione sono potentissimi strumenti di apprendimento per gli esseri umani (oltre che per alcune specie animali).
+E dato che i giochi più divertenti sono dei problemi risolubili ma non banali, e le narrazioni interessanti sono dei problemi risolubili ma non banali, possiamo dire che i problemi risolubili ma non banali sono i più potenti strumenti di apprendimento.
+
+In una prospettiva storica, il miglior modo di imparare la storia della filosofia è porci gli stessi problemi filosofici che si sono posti i filosofi del passato, e vedere come sono riusciti a risolverli.
+
+Analogamente, il miglior modo di imparare la storia della matematica, della scienza, dell'arte, o della politica (cioè della Storia con la S maiuscola) è porci gli stessi problemi matematici, scientifici, artistici, o politici che si sono posti i matematici, gli scienziati, gli artisti o i politici del passato, e vedere come sono riusciti a risolverli.
+
+Ma anche in una prospettiva non storica, cioè sincronica, il miglior modo di imparare qualunque disciplina dello scibile è porsi dei problemi non troppo facili e non troppo difficili relativi a tale disciplina, e vedere come si possono risolvere.
+
+Purtroppo, molto spesso i formatori hanno un approccio inappropriato.
+
+Per esempio, un insegnante di chimica, che ha l'obiettivo di spiegare che cosa sono i metalli, spesso come prima cosa ne dà una definizione, per poi descriverne le proprietà.
+Invece, tale insegnante dovrebbe iniziare mostrando numerose sostanze chimiche, e far notare che alcune sostanze sono lucide e sono buoni conduttori di calore e ottimi conduttori di elettricità, e altre sono opache e cattivi conduttori, e che questo consente di classificare le sostanze in base a tali proprietà.
+Solo dopo una classificazione di questo tipo possiamo, si può applicare l'etichetta di "metalli" alle sostanze di una delle classi individuate.
+
+Questo procedimento propone al discente vari problemi.
+In primo luogo, quali criteri usare per classificare le sostanze.
+In secondo luogo, come spiegare il fatto che la classificazione secondo un criterio (per esempio, la lucentezza) spesso coincide con la classificazione secondo un altro criterio (per esempio, la conducibilità elettrica).
+In terzo luogo, come la fisica atomica può rendere conto di tali proprietà delle sostanze.
+
+Procedendo col porre e risolvere problemi, si stimola l'interesse ad ascoltare le spiegazioni, si stimola l'interesse ad approfondire autonomamente la problematica, e a porre domande su ciò che non si ha ancora capito, e si consolida l'apprendimento.
+
+Concludendo, il miglior modo di insegnare è presentare delle questioni, ossia dei problemi, che chi ascolta non è in grado di risolvere immediatamente, ma può risolvere, gradualmente, con un può di sforzo.
 
 # Chi insegna non deve certificare le competenze
 
