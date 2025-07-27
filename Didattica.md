@@ -2,8 +2,8 @@
 
 In questo documento vengono presentati quattro principi didattici, indipendenti l'uno dall'altro. Eccoli in ordine arbitrario:
 1. La prassi precede la teoria.
-2. Gli uomini pensano per problemi
-3. Chi insegna non deve certificare le competenze.
+2. Gli uomini pensano per problemi.
+3. Chi insegna non deve certificare competenze.
 4. La comunicazione più efficace è tra due sole persone.
 
 # La prassi precede la teoria
@@ -32,7 +32,7 @@ E quindi, come è possibile che parecchie persone (ma in realtà non moltissime)
 Questo è possibile grazie a tre meccanismi:
 * Alle scuole primarie si imparano dei concetti elementari, che fungono da esempi per i concetti più astratti imparati nelle scuole medie inferiori, che fungono da esempi per i concetti più astratti imparati nelle scuole medie superiori, che fungono da esempi per i concetti più astratti imparati nelle università. D'altra parte, se ogni definizione fosse immediatamente comprensibile, perché non usare fin dalla scuola primaria le definizioni usate nei corsi universitari?
 * Chi ha buona memoria, quando ascolta una definizione la prima volta, in realtà non la si capisce, ma la memorizza come formula magica. Quando poi vede degli esempi concreti, richiama alla coscienza la formula memorizzata, e finalmente la capisce.
-* Chi non ha buona memoria, quando ascolta una definizione la prima volta, in realtà non la si capisce, e la dimentica rapidamente, e quindi sta solo perdendo tempo. Quando poi vede degli esempi concreti, si immagina spontaneamente i concetti descritti in tali esempi, anche se non ne ha in mente una definizione precisa. Poi, rileggendo il libro una seconda volta, finalmente capisce le definizioni, che non sono altro che astrazioni dei concetti concepiti tramite gli esempi. Quindi, chi non ha un'ottima memoria, ossia quasi tutti, per capire un testo di matematica, lo deve leggere più volte. Quasi nessuno riesce a passare un esame di matematica leggendo il testo una sola volta.
+* Chi non ha buona memoria, quando ascolta una definizione la prima volta, in realtà non la si capisce, e la dimentica rapidamente, e quindi sta solo perdendo tempo. Quando poi vede degli esempi concreti, si immagina spontaneamente i concetti descritti in tali esempi, anche se non ne ha in mente una definizione precisa. Poi, rileggendo il libro una seconda volta, finalmente capisce le definizioni, che non sono altro che astrazioni dei concetti già acquisiti tramite gli esempi. Quindi, chi non ha un'ottima memoria, ossia quasi tutti, per capire un testo di matematica, lo deve leggere più volte. Quasi nessuno riesce a passare un esame di matematica leggendo il testo una sola volta.
 
 Ecco un caso che mostra quanto gli esempi siano più importanti delle definizioni. Un insegnante di scuola primaria aveva sempre disegnato i triangoli con un lato orizzontale e il resto del triangolo sopra questo lato.
 
@@ -40,14 +40,16 @@ Un giorno, è comparso un triangolo con un lato orizzontale e il resto del trian
 Un altro giorno, è comparso un triangolo senza alcun lato orizzontale. Molti alunni lo hanno chiamato "triangolo inclinato".
 Tuttavia, in matematica, non esistono né triangoli rovesciati, né triangoli inclinati.
 
-Chiaramente, disegnare i triangoli sempre con un lato orizzontale e il resto del triangolo sopra questo lato aveva ingenerato un'idea impropria del concetto di "triangolo". L'insegnante avrebbe dovuto disegnare triangoli meno particolari, cioè senza lati orizzontali.
+Chiaramente, disegnare i triangoli sempre con un lato orizzontale e sempre con il resto del triangolo sopra questo lato aveva ingenerato un'idea impropria del concetto di "triangolo". L'insegnante avrebbe dovuto disegnare triangoli meno particolari, cioè senza lati orizzontali.
 Ovviamente, qualunque singolo triangolo non può essere del tutto generale. Però sarebbe stato sufficiente esibire una mezza dozzina di triangoli, di varie conformazioni. A quel punto, una definizione formale sarebbe stata comprensibile.
 
 In conclusione, qualunque buon corso di matematica dovrebbe iniziare mostrando una varietà di esempi molto concreti degli oggetti di studio, e mostrare come risolvere problemi con tali oggetti concreti.
 
-Dopo aver imparato ad affrontare tali problemi concreti, con metodi concreti, si possono mostrare proprietà che valgono in tutti i casi considerati. Tali proprietà sono i teoremi.
+Dopo aver imparato ad affrontare tali problemi concreti, con metodi concreti, si possono mostrare proprietà che valgono in tutti i casi considerati. Tali proprietà sono i teoremi. Ovviamente, non avendo a disposizione definizioni, assiomi e postulati, tali teoremi non saranno dimostrati dall'insegnante. Saranno semplici enunciati, più o meno intuitivi, presentati dall'insegnante come veri.
 
 Dopo aver appreso tali proprietà, si possono generalizzare gli oggetti visti, dando la definizione dell'insieme che include tutti i casi particolari, e che quindi sarà l'insieme delle entità matematiche per cui valgono le proprietà già note.
+
+Solo a questo punto, sarà possibile dare alla materia un'impostazione assiomatico-deduttiva. Tale impostazione è ovviamente necessaria per chi volesse diventare un matematico, ma non è strettamente necessaria per chi avesse solo bisogno dei risultati già raggiunti della matematica, come è il caso dell'ingegneria o dell'economia.
 
 Tutto ciò vale anche per altre discipline.
 
@@ -65,12 +67,12 @@ Infatti, l'obiettivo evolutivo di ogni essere vivente, inclusi gli esseri umani,
 
 Se un essere umano non pensa mai, chiaramente rischia di soccombere agli eventi avversi o di non sfruttare le opportunità che si presentano.
 Ma anche se un essere umano si attarda a pensare, quando c'è bisogno di agire immediatamente, rischia altrettanto di soccombere agli eventi avversi o di non sfruttare le opportunità.
-Invece risulta utile pensare quando si presentano eventi avversi od opportunità che lascino il tempo per pensare.
+Invece, risulta utile pensare a lungo quando gli eventi avversi o le opportunità che si presentano lascino sufficiente tempo per pensare.
 
 D'altra parte, pensare serve a poco se non ci sono eventi avversi né opportunità.
 In tale frangente, risulta ottimale attenersi al comportamento abitudinario.
 
-Quindi, gli esseri umani che hanno successo evolutivo sono quelli che si mettono a pensare che cosa è meglio fare quando c'è un evento avverso o un'opportunità da sfruttare, e c'è il tempo per pensare.
+Quindi, gli esseri umani che hanno successo evolutivo sono quelli che si mettono a pensare che cosa è meglio fare, quando c'è un evento avverso o un'opportunità da sfruttare, e c'è il tempo per pensarci.
 
 Facciamo qualche esempio.
 
@@ -84,7 +86,7 @@ Si sente da lontano il ruggito di un leone.
 Non è molto conveniente mettersi a scappare immediatamente, perché in tal modo ci si potrebbe far notare dal leone.
 Il comportamento migliore è mettersi a pensare che cosa fare: ci si potrebbe arrampicare sull'albero, o procurarsi un'arma lì vicino per potersi difendere, o avvertire altre persone lì vicino, o cercare di nascondersi, o scappare cercando però di non farsi notare dal leone.
 
-Il pensiero risulta un'arma vincente quando c'è un pericolo o un'opportunità imminente, e ci sono alcuni secondi o minuti per pensare al migliore comportamento da intraprendere.
+Il pensiero risulta un'arma vincente quando c'è un pericolo o un'opportunità imminente, e ci sono alcuni secondi o minuti per pensare al migliore comportamento da intraprendere; non quando è opportuno agire in una frazione di secondo.
 
 ## La prospettiva narrativa
 
@@ -100,7 +102,7 @@ C'è una situazione "normale".
 Questo a volte viene descritto dettagliatamente, e a volte viene omesso, in quanto dato per scontato.
 
 Accade un fatto imprevisto, che richiede un intervento risolutivo da parte del protagonista.
-I primi tentativi però risultano inefficaci come tali o in quanto contrastati da altre persone.
+I primi tentativi però risultano inefficaci, come tali, o in quanto contrastati da altre persone.
 
 La storia finisce quando la situazione si risolve, nel bene o nel male.
 
@@ -119,7 +121,7 @@ Quali sono i regolamenti di gioco che divertono maggiormente la gente?
 Sono quelli in cui il partecipante, secondo la sua percezione, ha una significativa probabilità di vincere, ma anche una significativa probabilità di perdere.
 Se si percepisce che in un gioco si ha la sostanziale certezza di vincere o la sostanziale certezza di perdere, non ci si diverte.
 
-In enigmistica, quali sono i cruciverba divertenti?
+In enigmistica, quali sono i cruciverba più divertenti?
 Non quelli in cui si indovinano subito oltre il 90% delle parole, in quanto troppo facili.
 E nemmeno quelli in cui si indovinano subito meno del 5% delle parole, in quanto troppo difficili.
 Quelli divertenti sono quelli *stimolanti*, ossia che possono essere risolti in un tempo ragionevole, iniziando dalle parole più facili, per poi passare a quelle più difficili, che però vengono facilitate dagli incroci con le parole già indovinate.
@@ -128,20 +130,20 @@ Quindi tra i giochi, troviamo divertenti quelli che sono problemi percepiti come
 
 ## La prospettiva formativa
 
-Il gioco e la narrazione sono potentissimi strumenti di apprendimento per gli esseri umani (oltre che per alcune specie animali).
-E dato che i giochi più divertenti sono dei problemi risolubili ma non banali, e le narrazioni interessanti sono dei problemi risolubili ma non banali, possiamo dire che i problemi risolubili ma non banali sono i più potenti strumenti di apprendimento.
+La narrazione e il gioco sono potentissimi strumenti di apprendimento per gli esseri umani (oltre che per alcune specie animali).
+E dato che le narrazioni più interessanti raccontano di problemi risolubili ma non banali, e i giochi più divertenti sono dei problemi risolubili ma non banali, possiamo dire che i problemi risolubili ma non banali sono i più potenti strumenti di apprendimento.
 
 In una prospettiva storica, il miglior modo di imparare la storia della filosofia è porci gli stessi problemi filosofici che si sono posti i filosofi del passato, e vedere come sono riusciti a risolverli.
 
-Analogamente, il miglior modo di imparare la storia della matematica, della scienza, dell'arte, o della politica (cioè della Storia con la S maiuscola) è porci gli stessi problemi matematici, scientifici, artistici, o politici che si sono posti i matematici, gli scienziati, gli artisti o i politici del passato, e vedere come sono riusciti a risolverli.
+Analogamente, il miglior modo di imparare la storia della matematica, della scienza, dell'arte, o della politica (cioè della Storia con la S maiuscola) è porci gli stessi problemi di natura matematica, scientifica, artistica, o politica che i matematici, gli scienziati, gli artisti o i politici del passato si sono posti, e vedere come sono riusciti a risolverli.
 
-Ma anche in una prospettiva non storica, cioè sincronica, il miglior modo di imparare qualunque disciplina dello scibile è porsi dei problemi non troppo facili e non troppo difficili relativi a tale disciplina, e vedere come si possono risolvere.
+Ma anche in una prospettiva non storica, cioè sincronica, il miglior modo di imparare qualunque disciplina dello scibile è porsi dei problemi non troppo facili e non troppo difficili relativi a tale disciplina, e vedere come si possono risolvere tali problemi.
 
 Purtroppo, molto spesso i formatori hanno un approccio inappropriato.
 
 Per esempio, un insegnante di chimica, che ha l'obiettivo di spiegare che cosa sono i metalli, spesso come prima cosa ne dà una definizione, per poi descriverne le proprietà.
 Invece, tale insegnante dovrebbe iniziare mostrando numerose sostanze chimiche, e far notare che alcune sostanze sono lucide e sono buoni conduttori di calore e ottimi conduttori di elettricità, e altre sono opache e cattivi conduttori, e che questo consente di classificare le sostanze in base a tali proprietà.
-Solo dopo una classificazione di questo tipo possiamo, si può applicare l'etichetta di "metalli" alle sostanze di una delle classi individuate.
+Solo dopo una classificazione di questo tipo, si può applicare l'etichetta di "metalli" alle sostanze di una delle classi individuate.
 
 Questo procedimento propone al discente vari problemi.
 In primo luogo, quali criteri usare per classificare le sostanze.
@@ -156,28 +158,30 @@ Concludendo, il miglior modo di insegnare è presentare delle questioni, ossia d
 
 Molte scuole eseguono esami di profitto degli studi. Tali esami avvengono tipicamente al termine dell'anno, ma anche durante il corso dell'anno.
 
-Questo avviene sia nella scuola primaria (con le pagelle e con l'esame di licenza), sia nell'università (con gli esami degli insegnamenti ed con l'esame di laurea), sia nelle scuole medie.
+Questo avviene sia nella scuola primaria (con le interrogazioni, le verifiche scritte, le pagelle e con l'esame di licenza), sia nell'università (con gli esami degli insegnamenti e con l'esame di laurea), sia nelle scuole medie.
 
 Alcune scuole e ordini professionali hanno esami di ammissione. Qui non parleremo di tale tipo di esami, ma solo degli esami conclusivi o intermedi, detti "esami di profitto".
 
-Solitamente tali esami di profitto vengono preparati, sottoposti e valutati dagli stessi docenti responsabili dell'insegnamento.
+Solitamente, tali esami di profitto vengono preparati, sottoposti e valutati dagli stessi docenti responsabili dell'insegnamento.
 
 Può avere senso che all'inizio, durante, o alla fine di un corso un insegnante esamini le competenze degli alunni per calibrare il proprio insegnamento, mantenendo segreti gli esiti di tali esami, ossia condividendoli solo con lo studente, o anche con i suoi genitori, se minorenne, ma non condividendoli con l'istituzione scolastica né con altri enti, se non per scopi statistici, adeguatamente anonimizzati.
 
 Quindi tali esami "ad uso interno" non hanno valore giuridico, e non certificano competenze verso il resto del mondo. Sono solamente un modo di far conoscere all'insegnante, all'alunno, e ai suoi genitori il livello di competenza attuale dello studente, ed eventualmente per valutare l'efficacia degli insegnamenti.
 
 Tuttavia, trascrivere su un documento avere valore legale, come un registro ufficiale o un certificato, l'esito di esami di profitto eseguiti dall'insegnante stesso risulta inappropriato, per vari motivi:
-* Dato che il futuro dell'alunno dipende dalle valutazioni dell'insegnante, l'alunno eviterà di porre all'insegnante obiezioni o domande che possano apparire come una critica all'insegnante, ma soprattutto eviterà di chiedere chiarimenti, in quanto tali richieste potrebbero dimostrare l'inadeguatezza della preparazione dell'alunno stesso. Tutto ciò ne compromette le possibilità di apprendimento, perché l'alunno non avrà l'opportunità di chiarire i propri dubbi, che rimarranno tali.
+* Dato che il futuro della vita dell'alunno dipende dalle valutazioni dell'insegnante, l'alunno eviterà di porre all'insegnante obiezioni o domande che possano apparire come una critica all'insegnante, ma soprattutto eviterà di chiedere chiarimenti, in quanto tali richieste potrebbero dimostrare l'inadeguatezza della preparazione dell'alunno stesso. Tutto ciò ne compromette le possibilità di apprendimento, perché l'alunno non avrà l'opportunità di chiarire i propri dubbi, che rimarranno tali.
 * Se l'insegnante ha delle opinioni eterodosse o semplicemente errate sulla propria materia, tenderà a insegnare tali idee e a verificarne l'acquisizione da parte dei suoi allievi, che quindi apprenderanno una visione del mondo particolare, non conforme a quella del resto della popolazione. Se invece le competenze sono accertate da un ente distinto da quello che impartisce l'insegnamento, si ha una convergenza degli obiettivi formativi tra l'insegnante e l'esaminatore, in quanto eventuali divergenze comprometterebbero il successo degli alunni in tali esami.
 * Se la stessa persona deve occuparsi sia di insegnare che di certificare, deve dedicare tempo sia a prepararsi come insegnante che a prepararsi come certificatore. Una maggiore specializzazione comporta più elevate professionalità.
 * Se durante l'orario di lezione si trascorre molto tempo a valutare (ossia interrogare, sottoporre verifiche, presentare la correzione delle verifiche) si può dedicare poco tempo alle spiegazioni.
+* Se l'insegnante deve occuparsi di preparare le verifiche e valutare i risultati delle verifiche (cioè "correggere i compiti"), deve dedicare buona parte del suo tempo ad attività diverse dall'insegnamento.
 
 In conclusione, ci sono tre tipi di esami:
 * Esami di ammissione
-* Esami di profitto ad esito segreto o statistico
+* Esami di profitto ad esito segreto o anonimizzato (statistico)
 * Esami di profitto ad esito pubblico
 
 Qui si asserisce che il terzo tipo di esami, ossia **gli esami di profitto ad esito pubblico**, **non devono essere condotti dagli stessi insegnanti che hanno impartito quegli insegnamenti**.
+
 In realtà, non sarebbe irragionevole neppure pensare che tali esami dovrebbero essere completamente aboliti, lasciando l'accertamento delle competenze agli esami di ammissione alle scuole, agli organismi di certificazione professionale, e ai concorsi pubblici.
 
 # La comunicazione più efficace è tra due sole persone
@@ -190,21 +194,21 @@ Qui si sostiene che tale modalità di comunicazione è inefficace.
 Quando un insegnante/relatore tiene lezione a una collettività di studenti/uditori, si hanno i seguenti inconvenienti:
 * Qualche studente arriva in anticipo, e quindi perde tempo in attesa della lezione.
 * Qualche altro studente arriva in ritardo, e quindi si perde parte della lezione.
-* L'insegnante spiega cose che presumono si conosca quanto spiegato nelle lezioni precedenti, o addirittura nelle scuole precedenti, ma alcuni studenti non conoscono quelle nozioni, perché tali nozioni non facevano parte del programma delle scuole di provenienza, o gli studenti non avevano potuto o voluto studiarle, o comunque non le avevano capite. Quindi non capiscono neanche questa lezione. Spesso tale inefficacia della lezione per tali studenti compromette la comprensione anche delle lezioni successive, così che lo studente perde completamente il senso di tutto il corso.
-* D'altra parte, a volte, l'insegnante, rendendosi conto che parecchi studenti non hanno i requisiti per comprendere la lezione in programma, interrompono il programma, e ripetono le lezioni che sarebbero dovute essere già state apprese. Ciò è una perdita di tempo per quegli studenti che avevano già capito e studiato tali lezioni.
+* L'insegnante spiega cose che presumono si conosca quanto spiegato nelle lezioni precedenti, o addirittura nelle scuole precedenti, ma alcuni studenti non conoscono quelle nozioni, perché tali nozioni non facevano parte del programma delle scuole di provenienza, o gli studenti non avevano partecipato alle lezioni precedenti, o non avevano potuto o voluto studiarle, o comunque non le avevano capite. Quindi, tali studenti non capiranno neanche questa lezione. Spesso, tale inefficacia della lezione per tali studenti compromette la comprensione anche delle lezioni successive, così che lo studente perde completamente il senso di tutto il corso.
+* D'altra parte, a volte, l'insegnante, rendendosi conto che parecchi studenti non hanno i requisiti per comprendere la lezione in programma, interrompe il programma, e ripete le lezioni che sarebbero dovute essere già state apprese. Ciò è una perdita di tempo per quegli studenti che avevano già capito e studiato tali lezioni.
 * Alcuni studenti, per vari motivi, possono essere già in possesso delle conoscenze/competenze spiegate in una lezione, anche se tali nozioni non facevano parte del precedente corso di studi. Anche in questo caso, tale lezione è una perdita di tempo per quegli studenti.
-* Alcuni argomenti possono essere spiegati rapidamente, mentre altri richiedono più tempo. È difficile fare una lezioni di dettaglio appropriato e di senso compiuto che duri esattamente quando il tempo stabilito per la lezione.
-* Quando si spiega qualcosa, uno studente può distrarsi e non afferrare una frase, oppure per sue carenze, può non comprendere il significato di tale frase, o può aver bisogno di una spiegazione più lenta e più concreta. Se si mantiene l'attuale spiegazione, tale studente non capirà. Se si ripetessero le frasi, si aggiungessero sinonimi o riformulazioni delle frasi già dette, si rallentasse la spiegazione, si aggiungessero esempi, la spiegazione risulterebbe comprensibile a più persone, ma si allungherebbe il tempo richiesto dalla lezione, e per alcuni studenti questo risulterebbe una perdita di tempo.
-* Quando una persona ha una curiosità, che sia puramente intellettuale oppure finalizzata a risolvere uno specifico problema, tale persona è molto interessata e recettiva alle risposte che le vengono date, e tende a memorizzare tale risposte. Se invece non nutre alcun interesse per una questione, tende a capirla più difficilmente e a dimenticarsela rapidamente. Ovviamente diversi studenti hanno curiosità diverse, e quindi una singola lezione non potrà soddisfare le curiosità di tutti.
+* Alcuni argomenti possono essere spiegati rapidamente, mentre altri richiedono più tempo. È difficile fare una lezione di dettaglio appropriato e di senso compiuto che duri esattamente quando il tempo stabilito per la lezione.
+* Quando si spiega qualcosa, uno studente può distrarsi e non afferrare una frase, oppure per sue carenze, può non comprendere il significato di tale frase, o può aver bisogno di una spiegazione più lenta o più concreta. Se si mantiene l'attuale spiegazione, tale studente non capirà. Se si ripetessero le frasi, si aggiungessero sinonimi o riformulazioni delle frasi già dette, si rallentasse la spiegazione, si aggiungessero esempi, la spiegazione risulterebbe comprensibile a più persone, ma si allungherebbe il tempo richiesto dalla lezione, e per alcuni studenti questo risulterebbe una perdita di tempo.
+* Quando una persona ha una curiosità, che sia puramente intellettuale oppure finalizzata a risolvere uno specifico problema, tale persona è molto interessata e recettiva alle risposte che le vengono date, e tenderà a memorizzare tali risposte. Se invece non nutre alcun interesse per una questione, tenderà a capirla più difficilmente e a dimenticarsela rapidamente. Ovviamente, diversi studenti hanno curiosità diverse, e quindi una singola lezione non potrà soddisfare le curiosità di tutti.
 
 ## Le lezioni registrate sono un miglioramento rispetto a quelle in diretta
 
-Se un insegnante registra le proprie lezioni con una telecamera, o anche solo con un registratore audio, e gli studenti visionano o ascoltano tali registrazioni, si hanno notevoli miglioramenti, rispetto alla lezione in diretta:
+Se un insegnante registra le proprie lezioni con una telecamera, o anche solo con un registratore audio, e gli studenti visionano o ascoltano tali registrazioni, si hanno questi notevoli miglioramenti, rispetto alla lezione in diretta:
 * Non ci sono né anticipi né ritardi alla partecipazione alle lezioni, né distrazioni, perché ogni studente può scegliere quando iniziare e quando interrompere la visione del filmato, e può tornare indietro di qualche secondo per riascoltare l'ultima frase.
 * Ogni lezione può dichiarare i propri prerequisiti prima della lezione e anche durante la lezione, e proporre le lezioni registrate che spiegano tali concetti. Pertanto, gli studenti che non fossero in possesso di tali requisiti possono saltare alla lezione che spiega tali concetti. Alternativamente, quando uno studente, ascoltando una lezione, si accorge che è troppo semplice o troppo complessa rispetto alle proprie competenze, ne può sospendere l'ascolto e passare a un'altra lezione.
 * Ogni studente che non ha assimilato una lezione può risentirla, come ripasso, mentre chi la conosce bene può evitare tale ripasso.
 * Ogni studente può scegliere le lezioni che lo interessano maggiormente.
-* Per una lezione registrata, non esiste una durata predefinita. Si possono fare lezioni di qualunque durata (anche se si sconsiglia di superare i 60 minuti).
+* Per una lezione registrata, non esiste una durata predefinita. Si possono fare lezioni di qualunque durata (anche se sconsiglio di superare i 60 minuti).
 
 ## Le lezioni a una collettività hanno comunque dei difetti
 
@@ -251,9 +255,9 @@ Questa tecnica offre vantaggi e svantaggi, rispetto alle lezioni individuali da 
 
 I vantaggi sono:
 * Ogni studente potrebbe ricevere insegnamenti personalizzati per un tempo maggiore, a parità di costo (o, equivalentemente, per un costo minore, a parità di tempo). Per esempio, se il professore dedicasse 20 ore alla settimana all'insegnamento individuale, e ogni studente dedicasse solo 2 ore alla settimana ad insegnare, e ci fossero 10 studenti per ogni professore, si otterrebbe che il tempo complessivo dedicato a lezioni individuali impartite da studenti sarebbe 20 ore alla settimana, ossia uguale a quello dedicato a lezioni individuali impartite da professori. E quindi, mediamente, ogni studente potrebbe ricevere il doppio delle lezioni individuali, cioè 2 ore da un professore e 2 ore da un altro studente.
-* Quando si insegna, si rafforza il proprio apprendimento. Infatti, molti studenti ripetono le lezioni da soli, senza che nessuno li ascolti, proprio per rafforzare il proprio apprendimento. Quindi tali lezioni inididuali studente-studente rafforzano l'apprendimento anche dello studente che impartisce la lezione, e non solo di chi la riceve.
+* Quando si insegna, si rafforza il proprio apprendimento. Infatti, molti studenti ripetono le lezioni da soli, senza che nessuno li ascolti, proprio per rafforzare il proprio apprendimento. Quindi tali lezioni individuali studente-studente rafforzano l'apprendimento anche dello studente che impartisce la lezione, e non solo di chi la riceve.
 * Quando si insegna, ci si rende conto di quali concetti non sono stati ben appresi. A questo punto, ovviamente, si dovrà chiedere aiuto a una terza persona. Altrimenti si rischia di non accorgersi di non aver imparato tutto ciò che si dovrebbe conoscere.
-* In questo modo si stringono rapporti di collaborazione, se non di amicizia, tra gli studenti, che altrimenti potrebbero rimanere isolati. Tale collaborazione può essere utile anche per scambiarsi consigli sul proseguimento dei propri studi.
+* In questo modo, si stringono rapporti di collaborazione, se non di amicizia, tra gli studenti, che altrimenti potrebbero rimanere isolati. Tale collaborazione può essere utile anche per scambiarsi consigli sul proseguimento dei propri studi.
 
 Gli svantaggi invece sono:
 * In generale, uno studente non è bravo a insegnare quanto un professore, per la sua limitata conoscenza della materia.
@@ -264,7 +268,7 @@ Pertanto, le lezioni individuali da parte dei professori rimangono irrinunciabil
 
 # Tecniche per migliorare le lezioni individuali
 
-Ecco alcuni accorgimenti permettono di sopperire alle limitazioni citate prima.
+Ecco alcuni accorgimenti che permettono di sopperire alle limitazioni citate prima.
 
 ## Come evitare ritardi e anticipi alle lezioni individuali
 
@@ -273,20 +277,20 @@ Tali attività devono essere interrompibili e riprendibili dal punto di interruz
 
 Tutti gli studenti e i professori si trovano nello stesso ambiente, che può essere un ambiente virtuale, gestito tramite un sistema di telecomunicazione.
 
-Quando uno studente ha bisogno di una lezione individuale su un dato argomento da un professore o da un altro studente, invia una richiesta alla scolaresca. Se c'è una persona libera che è in grado di tenere una lezione su quell'argomento, tale persona viene avvisata e la lezione può iniziare immediatamente. Altrimenti la richiesta dello studente che ha bisogno della lezione viene messa in lista d'attesa, e lo studente può inviare un'altra richiesta. Se nessuna richiesta può essere soddisfatta, lo studente si mette a fare un'attività a bassa priorità.
+Quando uno studente ha bisogno di una lezione individuale su un dato argomento da un professore o da un altro studente, invia una richiesta alla scolaresca. Se c'è una persona libera che è in grado di tenere una lezione su quell'argomento, tale persona viene avvisata e la lezione può iniziare immediatamente. Altrimenti, la richiesta dello studente che ha bisogno della lezione viene messa in lista d'attesa, e lo studente può inviare un'altra richiesta. Fin tanto che nessuna richiesta può essere soddisfatta, lo studente prosegue a svolgere attività a bassa priorità.
 
-Quando una persona impegnata finisce una lezione o altra attività ad alta priorità, si rende disponibile. A questo punto, se c'è una richiesta di lezione che può soddisfare, e il richiedente non è impegnato, può iniziare la lezione come insegnante.
+Quando una persona, che era impegnata in una lezione o altra attività ad alta priorità, finisce tale attività, si rende disponibile. A questo punto, se c'è una richiesta di lezione che può soddisfare, e il richiedente non è impegnato, può iniziare la lezione come insegnante.
 Similmente, se c'è una sua richiesta di lezione che può essere soddisfatta da un'altra persona libera, può iniziare la lezione come studente.
 
-Quando sono state dette tutte le cose richieste da una persona, e che l'altra persona è in grado di rispondere, si finisce la lezione, senza dover attendere che sia trascorso un tempo predefinito.
+Quando un insegnante ha risposto, in modo più o meno soddisfacente, a tutte le domande ricevute durante una lezione, la lezione finisce, senza dover attendere che sia trascorso un tempo predefinito.
 
 Con tale meccanismo, si evita che le persone perdano tempo in attesa di parlare con qualcuno.
 
-## Rischi delle lezioni individuali e come evitarli
+## Rischi delle lezioni individuali, e come evitarli
 
-Tale meccanismo comporta alcuni rischi:
-* Uno studente potrebbe dedicare molto tempo a insegnare e quindi troppo poco a studiare o a ricevere insegnamenti.
-* Uno studente potrebbe dedicare troppo poco tempo ricevere insegnamenti da un professore, che sono i più efficaci.
+Tale meccanismo di lezioni individuali, effettuato in parte da insegnanti-processori e in parte da insegnanti-studenti, comporta alcuni rischi:
+* Uno studente potrebbe dedicare molto tempo a insegnare, e quindi troppo poco tempo a studiare o a ricevere insegnamenti.
+* Uno studente potrebbe dedicare troppo poco tempo a ricevere insegnamenti da un professore, che sono i più efficaci.
 
 Per evitare questi rischi si devono porre alcuni limiti:
 * Un valore massimo per il numero di ore alla settimana che ogni studente può passare insegnando. Quindi, se uno studente ha già raggiunto tale limite, per il resto della settimana dovrebbe limitarsi a studiare e a ricevere insegnamenti.
@@ -315,4 +319,4 @@ Tale questionario ha ben quattro scopi:
 * Dopo che uno studente ha seguito una lezione, potrebbe aver capito poco da tale lezione, e in tal caso avrebbe bisogno di ulteriori spiegazioni. Le risposte a un questionario su un argomento permettono di determinare se sono necessarie ulteriori lezioni su tale argomento.
 * Rispondere a un questionario su un argomento è un modo di rafforzare le proprie conoscenze su tale argomento.
 
-Un aspetto da tenere in considerazione è la persistenza della memoria. Appena dopo aver ascoltato una lezione, si ricordano molti dettagli, ma man mano che i giorni passano, molti ricordi svaniscono. Quindi, per certificare competenze realmente acquisite, il test di competenza deve essere eseguito alcuni giorni o, meglio, alcune settimane dopo aver seguito la lezione.
+Un aspetto da tenere in considerazione è la persistenza della memoria. Appena dopo aver ascoltato una lezione, si ricordano molti dettagli, ma man mano che i giorni passano, molti ricordi svaniscono. Quindi, per certificare competenze realmente acquisite, il test di competenza deve essere eseguito alcuni giorni o, meglio, alcune settimane dopo aver seguito la lezione. Passare un test su una lezione mezz'ora dopo aver seguito la lezione significa ben poco. Passarlo un mese dopo, senza ripassi intermedi, significa aver consolidato tali conoscenze.
