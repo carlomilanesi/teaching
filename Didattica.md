@@ -254,8 +254,9 @@ Quindi, invece che ricevere una lezione da un professore, ogni studente può ric
 Questa tecnica offre vantaggi e svantaggi, rispetto alle lezioni individuali da parte dei professori.
 
 I vantaggi sono:
-* Ogni studente potrebbe ricevere insegnamenti personalizzati per un tempo maggiore, a parità di costo (o, equivalentemente, per un costo minore, a parità di tempo). Per esempio, se il professore dedicasse 20 ore alla settimana all'insegnamento individuale, e ogni studente dedicasse solo 2 ore alla settimana ad insegnare, e ci fossero 10 studenti per ogni professore, si otterrebbe che il tempo complessivo dedicato a lezioni individuali impartite da studenti sarebbe 20 ore alla settimana, ossia uguale a quello dedicato a lezioni individuali impartite da professori. E quindi, mediamente, ogni studente potrebbe ricevere il doppio delle lezioni individuali, cioè 2 ore da un professore e 2 ore da un altro studente.
-* Quando si insegna, si rafforza il proprio apprendimento. Infatti, molti studenti ripetono le lezioni da soli, senza che nessuno li ascolti, proprio per rafforzare il proprio apprendimento. Quindi tali lezioni individuali studente-studente rafforzano l'apprendimento anche dello studente che impartisce la lezione, e non solo di chi la riceve.
+* Ogni studente potrebbe ricevere insegnamenti personalizzati per un tempo maggiore, a parità di costo (o, equivalentemente, per un costo minore, a parità di tempo). Per esempio, consideriamo una situazione con un professore e 10 suoi studenti. Se il professore dedicasse 20 ore alla settimana all'insegnamento individuale, e ognuno dei 10 studenti dedicasse solo 2 ore alla settimana ad insegnare, si otterrebbe che il tempo complessivo settimanale dedicato a lezioni individuali impartite da studenti sarebbe di 20 ore, ossia uguale a quello dedicato a lezioni individuali impartite dal professore. E quindi, mediamente, ogni studente potrebbe ricevere il doppio delle lezioni individuali, cioè, ogni settimana, 2 ore da un professore e 2 ore da un altro studente.
+* Quando si insegna, si rafforza il proprio apprendimento. Infatti, molti studenti ripetono le lezioni da soli, senza che nessuno li ascolti, proprio per rafforzare il proprio apprendimento. Quindi, tali lezioni individuali studente-studente rafforzano l'apprendimento anche dello studente che impartisce la lezione, e non solo di chi la riceve.
+* Dato che gli studenti ripeterebbero comunque le lezioni da soli, ripeterle a un altro studente non sarebbe uno spreco di tempo per lo studente-insegnante.
 * Quando si insegna, ci si rende conto di quali concetti non sono stati ben appresi. A questo punto, ovviamente, si dovrà chiedere aiuto a una terza persona. Altrimenti si rischia di non accorgersi di non aver imparato tutto ciò che si dovrebbe conoscere.
 * In questo modo, si stringono rapporti di collaborazione, se non di amicizia, tra gli studenti, che altrimenti potrebbero rimanere isolati. Tale collaborazione può essere utile anche per scambiarsi consigli sul proseguimento dei propri studi.
 
@@ -265,6 +266,14 @@ Gli svantaggi invece sono:
 * In generale, uno studente non è bravo a dare consigli quanto un professore, per la sua limitata conoscenza delle carriere accademiche e professionali.
 
 Pertanto, le lezioni individuali da parte dei professori rimangono irrinunciabili, ma possono venire integrate da lezioni individuali da parte di studenti.
+
+## L'utilizzo di LLM (Large Language Model) risolve altri problemi
+
+Recentemente (dal 2023), sono comparsi su Internet vari sistemi informatici cosiddetti "a Intelligenza Artificiale", basati sull'addestramento di reti nerali artificiali con enormi quantità di testi.
+
+Dopo i primi due anni di raffinamento degli algoritmi, tali sistemi si sono dimostrati in grado di rispondere in modo ragionevole a moltissime domande di genere disparato, tra cui quelle che tipicamente sorgono in ambito accademico o scolastico.
+
+Pertanto, si ha un'ulteriore possibilità di apprendimento: invece di esporre i propri dubbi a professori o a compagni di studi, li si può esporre a un LLM, otten
 
 # Tecniche per migliorare le lezioni individuali
 
