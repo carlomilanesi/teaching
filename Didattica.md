@@ -267,13 +267,18 @@ Gli svantaggi invece sono:
 
 Pertanto, le lezioni individuali da parte dei professori rimangono irrinunciabili, ma possono venire integrate da lezioni individuali da parte di studenti.
 
-## L'utilizzo di LLM (Large Language Model) risolve altri problemi
+## L'utilizzo di Large Language Model risolve altri problemi
 
-Recentemente (dal 2023), sono comparsi su Internet vari sistemi informatici cosiddetti "a Intelligenza Artificiale", basati sull'addestramento di reti nerali artificiali con enormi quantità di testi.
+Recentemente (dal 2023), sono comparsi su Internet vari sistemi informatici cosiddetti "a intelligenza artificiale", basati sull'addestramento di reti nerali artificiali con enormi quantità di testi.
+Si tratta dei Large Language Model (LLM).
 
 Dopo i primi due anni di raffinamento degli algoritmi, tali sistemi si sono dimostrati in grado di rispondere in modo ragionevole a moltissime domande di genere disparato, tra cui quelle che tipicamente sorgono in ambito accademico o scolastico.
 
-Pertanto, si ha un'ulteriore possibilità di apprendimento: invece di esporre i propri dubbi a professori o a compagni di studi, li si può esporre a un LLM, otten
+Pertanto, si ha un'ulteriore possibilità di apprendimento: invece di esporre le proprie richieste e i propri dubbi a professori o a compagni di studi, li si può rivolgere a un LLM, ottenendo risposte che spesso sono addirittura migliori di quelle che fornirebbe un essere umano.
+
+Tale strumento risulta quindi un'alternativa valida alle lezioni individuali da parte di professori o studenti, soprattutto per rispondere a domande precise.
+
+In conclusione, ogni studente dovrebbe ricevere lezioni individuali da un professore, se è disponibile, altrimenti da un altro studente competente, se è disponibile, e altrimenti da un LLM.
 
 # Tecniche per migliorare le lezioni individuali
 
