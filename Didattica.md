@@ -152,7 +152,7 @@ In terzo luogo, come la fisica atomica può rendere conto di tali proprietà del
 
 Procedendo col porre e risolvere problemi, si stimola l'interesse ad ascoltare le spiegazioni, si stimola l'interesse ad approfondire autonomamente la problematica, e a porre domande su ciò che non si ha ancora capito, e si consolida l'apprendimento.
 
-Concludendo, il miglior modo di insegnare è presentare delle questioni, ossia dei problemi, che chi ascolta non è in grado di risolvere immediatamente, ma può risolvere, gradualmente, con un può di sforzo.
+Concludendo, il miglior modo di insegnare è presentare delle questioni, ossia dei problemi, che chi ascolta non è in grado di risolvere immediatamente, ma può risolvere, gradualmente, con un po' di sforzo.
 
 # Chi insegna non deve certificare le competenze
 
@@ -168,7 +168,7 @@ Può avere senso che all'inizio, durante, o alla fine di un corso un insegnante 
 
 Quindi tali esami "ad uso interno" non hanno valore giuridico, e non certificano competenze verso il resto del mondo. Sono solamente un modo di far conoscere all'insegnante, all'alunno, e ai suoi genitori il livello di competenza attuale dello studente, ed eventualmente per valutare l'efficacia degli insegnamenti.
 
-Tuttavia, trascrivere su un documento avere valore legale, come un registro ufficiale o un certificato, l'esito di esami di profitto eseguiti dall'insegnante stesso risulta inappropriato, per vari motivi:
+Tuttavia, incaricare l'insegnante stesso di preparare esami di profitto, sottoporli, valutarli, e trascrivere tali valutazioni su un registro ufficiale o un certificato risulta inappropriato, per i seguenti motivi:
 * Dato che il futuro della vita dell'alunno dipende dalle valutazioni dell'insegnante, l'alunno eviterà di porre all'insegnante obiezioni o domande che possano apparire come una critica all'insegnante, ma soprattutto eviterà di chiedere chiarimenti, in quanto tali richieste potrebbero dimostrare l'inadeguatezza della preparazione dell'alunno stesso. Tutto ciò ne compromette le possibilità di apprendimento, perché l'alunno non avrà l'opportunità di chiarire i propri dubbi, che rimarranno tali.
 * Se l'insegnante ha delle opinioni eterodosse o semplicemente errate sulla propria materia, tenderà a insegnare tali idee e a verificarne l'acquisizione da parte dei suoi allievi, che quindi apprenderanno una visione del mondo particolare, non conforme a quella del resto della popolazione. Se invece le competenze sono accertate da un ente distinto da quello che impartisce l'insegnamento, si ha una convergenza degli obiettivi formativi tra l'insegnante e l'esaminatore, in quanto eventuali divergenze comprometterebbero il successo degli alunni in tali esami.
 * Se la stessa persona deve occuparsi sia di insegnare che di certificare, deve dedicare tempo sia a prepararsi come insegnante che a prepararsi come certificatore. Una maggiore specializzazione comporta più elevate professionalità.
@@ -302,7 +302,7 @@ Con tale meccanismo, si evita che le persone perdano tempo in attesa di parlare 
 
 ## Rischi delle lezioni individuali, e come evitarli
 
-Tale meccanismo di lezioni individuali, effettuato in parte da insegnanti-processori e in parte da insegnanti-studenti, comporta alcuni rischi:
+Tale meccanismo di lezioni individuali, effettuato in parte da insegnanti-professori e in parte da insegnanti-studenti, comporta alcuni rischi:
 * Uno studente potrebbe dedicare molto tempo a insegnare, e quindi troppo poco tempo a studiare o a ricevere insegnamenti.
 * Uno studente potrebbe dedicare troppo poco tempo a ricevere insegnamenti da un professore, che sono i più efficaci.
 
